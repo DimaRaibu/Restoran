@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+.header{ 
+	height: 800px;
+	/* окрашиваю зону хедера \для более удобного 
+	позиционирования обьектов */
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container{
+	margin: 0 165px;
+	padding-top: 50px;
+}
+.nav{
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	font-weight: 700;
+	margin: 0 23px;
+	padding-top: 50px;
+}
